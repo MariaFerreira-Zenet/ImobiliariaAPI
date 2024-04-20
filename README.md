@@ -21,4 +21,5 @@ A estrutura do projeto está organizada em várias camadas, típica em aplicaç�
 -Migrations: Para gerenciar mudanças incrementais e versionamento da base de dados.
 
 *Utilização do Swagger*
+
 O projeto utiliza Swagger (OpenAPI) para documentação da API. Isso facilita a visualização e teste das interfaces API de uma forma interativa e automática.
